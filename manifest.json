@@ -1,0 +1,10 @@
+{
+  "background_color": "#fff",
+  "description": "Dice-Baccarat",
+  "display": "standalone",
+  "icons": [],
+  "lang": "en",
+  "name": "Dice-Baccarat",
+  "short_name": "Dice-Baccarat",
+  "start_url": "."
+}
